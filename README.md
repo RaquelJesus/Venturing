@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
 <head>
 <meta charset="UTF-8">
@@ -386,7 +385,7 @@ flexibility(document.documentElement);
 									<div class="ast-small-footer-section ast-small-footer-section-2" >
 						<a href="https://coreatcu.wufoo.com/forms/Venturing-newsletter-signup/">Newsletter</a> | <a href="https://www.facebook.com/COREatCU/">Facebook</a> | <a href="https://www.instagram.com/coreatcu/?hl=en">Instagram</a> | <a href="https://twitter.com/columbiaentrep?lang=en">Twitter</a><br>
 Columbia University  |  Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6b0804190e09040a190f2b0804071e0609020a450e0f1e">[email&#160;protected]</a> <br>
-Copyright © 2019 Columbia Organization of Rising Entrepreneurs					</div>
+Copyright © 2019 Venturing at Columbia					</div>
 				
 			</div><!-- .ast-row .ast-small-footer-wrap -->
 		</div><!-- .ast-container -->
