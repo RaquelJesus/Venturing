@@ -5,13 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="https://gmpg.org/xfn/11">
 
-<title>CORE &#8211; Columbia Organization of Rising Entrepreneurs </title>
+<title>VENTURING &#8211; Venturing at Columbia </title>
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="CORE &raquo; Feed" href="https://coreatcu.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="CORE &raquo; Comments Feed" href="https://coreatcu.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VENTURING &raquo; Feed" href="https://coreatcu.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VENTURING &raquo; Comments Feed" href="https://coreatcu.com/comments/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/coreatcu.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/venturing\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/venturing\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/coreatcu.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -97,7 +97,7 @@ flexibility(document.documentElement);
 				
 		<div class="site-branding">
 			<div class="ast-site-identity" itemscope="itemscope" itemtype="https://schema.org/Organization">
-				<span class="site-logo-img"><a href="https://coreatcu.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="150" height="37" src="https://coreatcu.com/wp-content/uploads/2019/01/header-150x37.png" class="custom-logo" alt="CORE" itemprop="logo" srcset="https://coreatcu.com/wp-content/uploads/2019/01/header-150x37.png 150w, https://coreatcu.com/wp-content/uploads/2019/01/header.png 259w" sizes="(max-width: 150px) 100vw, 150px" /></a></span>			</div>
+				<span class="site-logo-img"><a href="https://coreatcu.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="150" height="37" src="https://coreatcu.com/wp-content/uploads/2019/01/header-150x37.png" class="custom-logo" alt="VENTURING" itemprop="logo" srcset="https://coreatcu.com/wp-content/uploads/2019/01/header-150x37.png 150w, https://coreatcu.com/wp-content/uploads/2019/01/header.png 259w" sizes="(max-width: 150px) 100vw, 150px" /></a></span>			</div>
 		</div>
 
 		<!-- .site-branding -->
@@ -217,7 +217,7 @@ flexibility(document.documentElement);
 				</div>
 				<div data-id="9becf20" class="elementor-element elementor-element-9becf20 elementor-widget elementor-widget-heading" data-element_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">CORE at our best is a group of thoughtful individuals who are driven by curiosity and a relentless desire to work together to make our community a better place. We see the world as a place of opportunity, and we're always looking to solve problems, take on challenges, and create value.<br><br>We're started companies, interned at some of the world's most exciting startups (both big and small) and each made entrepreneurship a cornerstone of our Columbia experience, but we know we've still got a lot to do. If you find promise and meaning in entrepreneurship, we'd love to hear from you</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">VENTURING at our best is a group of thoughtful individuals who are driven by curiosity and a relentless desire to work together to make our community a better place. We see the world as a place of opportunity, and we're always looking to solve problems, take on challenges, and create value.<br><br>We're started companies, interned at some of the world's most exciting startups (both big and small) and each made entrepreneurship a cornerstone of our Columbia experience, but we know we've still got a lot to do. If you find promise and meaning in entrepreneurship, we'd love to hear from you</h3>		</div>
 				</div>
 						</div>
 			</div>
@@ -310,7 +310,7 @@ flexibility(document.documentElement);
 				</div>
 				<div data-id="bfeabbe" class="elementor-element elementor-element-bfeabbe elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-element_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Enterprises</h5><p class="elementor-image-box-description">Join CORE for the second of our 9 session class on the fundamentals of entrepreneurship<br><br></p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h5 class="elementor-image-box-title">Enterprises</h5><p class="elementor-image-box-description">Join VENTURING for the second of our 9 session class on the fundamentals of entrepreneurship<br><br></p></div></div>		</div>
 				</div>
 				<div data-id="13c4f88" class="elementor-element elementor-element-13c4f88 elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
 				<div class="elementor-widget-container">
@@ -386,7 +386,7 @@ flexibility(document.documentElement);
 									<div class="ast-small-footer-section ast-small-footer-section-2" >
 						<a href="https://coreatcu.wufoo.com/forms/core-newsletter-signup/">Newsletter</a> | <a href="https://www.facebook.com/COREatCU/">Facebook</a> | <a href="https://www.instagram.com/coreatcu/?hl=en">Instagram</a> | <a href="https://twitter.com/columbiaentrep?lang=en">Twitter</a><br>
 Columbia University  |  Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6b0804190e09040a190f2b0804071e0609020a450e0f1e">[email&#160;protected]</a> <br>
-Copyright © 2019 Columbia Organization of Rising Entrepreneurs					</div>
+Copyright © 2019 Venturing at Columbia					</div>
 				
 			</div><!-- .ast-row .ast-small-footer-wrap -->
 		</div><!-- .ast-container -->
