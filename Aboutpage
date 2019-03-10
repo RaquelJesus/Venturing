@@ -96,7 +96,7 @@ flexibility(document.documentElement);
 				
 		<div class="site-branding">
 			<div class="ast-site-identity" itemscope="itemscope" itemtype="https://schema.org/Organization">
-				<span class="site-logo-img"><a href="https://coreatcu.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="150" height="37" src="https://coreatcu.com/wp-content/uploads/2019/01/header-150x37.png" class="custom-logo" alt="CORE" itemprop="logo" srcset="https://coreatcu.com/wp-content/uploads/2019/01/header-150x37.png 150w, https://coreatcu.com/wp-content/uploads/2019/01/header.png 259w" sizes="(max-width: 150px) 100vw, 150px" /></a></span>			</div>
+				<span class="site-logo-img"><a href="https://coreatcu.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="150" height="37" src="https://coreatcu.com/wp-content/uploads/2019/01/header-150x37.png" class="custom-logo" alt="VENTURING" itemprop="logo" srcset="https://coreatcu.com/wp-content/uploads/2019/01/header-150x37.png 150w, https://coreatcu.com/wp-content/uploads/2019/01/header.png 259w" sizes="(max-width: 150px) 100vw, 150px" /></a></span>			</div>
 		</div>
 
 		<!-- .site-branding -->
